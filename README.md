@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  
 </p>
 
 # 🚀 Featured Projects
