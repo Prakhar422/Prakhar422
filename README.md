@@ -150,8 +150,10 @@ A responsive blogging website developed using HTML, CSS, and Bootstrap featuring
 </p>
 
 
+
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar422&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/409ba5/Prakhar422" alt="GitHub Contribution Chart" />
 </p>
 
 
