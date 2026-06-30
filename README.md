@@ -151,9 +151,8 @@ A responsive blogging website developed using HTML, CSS, and Bootstrap featuring
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prakhar422/Prakhar422/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar422&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
-
 
 
 ---
