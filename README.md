@@ -27,16 +27,46 @@
 
 ## 💻 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,react,tailwind,bootstrap,nodejs,express,mongodb,git,github,postman,vercel&perline=5" />
+### 🖥️ Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,bootstrap,vite" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Responsive_Design-0EA5E9?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
----
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode,docker" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
 
 # 🚀 Featured Projects
 
