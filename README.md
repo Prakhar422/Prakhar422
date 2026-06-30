@@ -106,8 +106,8 @@ A Single Page Application (SPA) built with React for managing trips, including t
 ## 💱 Currency Converter
 A React-based currency converter application that provides real-time currency conversions with a simple and user-friendly interface.
 
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar422/Currency_Convertor)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)]([YOUR_CURRENCY_CONVERTER_LIVE_LINK](https://currency-convertor-three-lac.vercel.app/))
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prakhar422/Currency_Converter)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://currency-converter-three-vite.vercel.app/)
 
 ---
 
