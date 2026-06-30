@@ -153,9 +153,7 @@ A responsive blogging website developed using HTML, CSS, and Bootstrap featuring
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prakhar422&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prakhar422&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+
 
 ---
 
